@@ -3,7 +3,7 @@ NRL: network representation learning. NE: network embedding.
 
 Contributed by [Cunchao Tu](http://thunlp.org/~tcc/) and Yuan Yao.
 
-1. **DeepWalk: Online Learning of Social Representations.**
+1. [X] **DeepWalk: Online Learning of Social Representations.**
 *Bryan Perozzi, Rami Al-Rfou, Steven Skiena.*  KDD 2014. [paper](https://arxiv.org/pdf/1403.6652) [code](https://github.com/phanein/deepwalk)
 
 1. **Learning Latent Representations of Nodes for Classifying in Heterogeneous Social Networks.**
@@ -24,7 +24,7 @@ Contributed by [Cunchao Tu](http://thunlp.org/~tcc/) and Yuan Yao.
 1. **PTE: Predictive Text Embedding through Large-scale Heterogeneous Text Networks.**
 *Jian Tang, Meng Qu, Qiaozhu Mei.*  KDD 2015. [paper](https://arxiv.org/pdf/1508.00200.pdf) [code](https://github.com/mnqu/PTE)
 
-1. **Heterogeneous Network Embedding via Deep Architectures.**
+1. [X] **Heterogeneous Network Embedding via Deep Architectures.**
 *Shiyu Chang, Wei Han, Jiliang Tang, Guo-Jun Qi, Charu C. Aggarwal, Thomas S. Huang.* KDD 2015. [paper](http://www.ifp.illinois.edu/~chang87/papers/kdd_2015.pdf)
 
 1. **Deep Neural Networks for Learning Graph Representations.**
@@ -33,7 +33,7 @@ Contributed by [Cunchao Tu](http://thunlp.org/~tcc/) and Yuan Yao.
 1. **Asymmetric Transitivity Preserving Graph Embedding.**
 *Mingdong Ou, Peng Cui, Jian Pei, Ziwei Zhang, Wenwu Zhu.*  KDD 2016. [paper](http://media.cs.tsinghua.edu.cn/~multimedia/cuipeng/papers/hoppe.pdf)
 
-1. **Revisiting Semi-supervised Learning with Graph Embeddings.**
+1. [X] **Revisiting Semi-supervised Learning with Graph Embeddings.**
 *Zhilin Yang, William W. Cohen, Ruslan Salakhutdinov.* ICML 2016. [paper](http://www.jmlr.org/proceedings/papers/v48/yanga16.pdf)
 
 1. **node2vec: Scalable Feature Learning for Networks.**
@@ -60,7 +60,7 @@ Contributed by [Cunchao Tu](http://thunlp.org/~tcc/) and Yuan Yao.
 1. **TransNet: Translation-Based Network Representation Learning for Social Relation Extraction.**
 *Cunchao Tu, Zhengyan Zhang, Zhiyuan Liu, Maosong Sun.* IJCAI 2017. [paper](http://thunlp.org/~tcc/publications/ijcai2017_transnet.pdf) [code](https://github.com/thunlp/transnet)
 
-1. **metapath2vec: Scalable Representation Learning for Heterogeneous Networks.**
+1. [X] **metapath2vec: Scalable Representation Learning for Heterogeneous Networks.**
 *Yuxiao Dong, Nitesh V. Chawla, Ananthram Swami.* KDD 2017. [paper](https://www3.nd.edu/~dial/publications/dong2017metapath2vec.pdf) [code](https://ericdongyx.github.io/metapath2vec/m2v.html)
 
 1. **Learning from Labeled and Unlabeled Vertices in Networks.**
@@ -69,7 +69,7 @@ Contributed by [Cunchao Tu](http://thunlp.org/~tcc/) and Yuan Yao.
 1. **Unsupervised Feature Selection in Signed Social Networks.**
 *Kewei Cheng, Jundong Li, Huan Liu.* KDD 2017. [paper](http://www.public.asu.edu/~jundongl/paper/KDD17_SignedFS.pdf)
 
-1. **Task-guided and Path-augmented Heterogeneous Network Embedding for Author Identification**
+1. [X] **Task-guided and Path-augmented Heterogeneous Network Embedding for Author Identification**
 *Ting Chen, Yizhou Sun*, WSDM 2017. [paper](http://dl.acm.org/citation.cfm?id=3018735)
 
 1. **Embedding of Embedding (EOE) : Embedding for Coupled Heterogeneous Networks**
