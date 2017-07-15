@@ -83,7 +83,7 @@ Contributed by [Cunchao Tu](http://thunlp.org/~tcc/) and Yuan Yao.
 
 
 1. **Entity Hierarchy Embedding**
-*Zhiting Hu,  Poyao Huang,  Yuntian Deng,  Yingkai Gao,  Eric P. Xing*. ACL 2015. [paper](Zhiting Hu,  Poyao Huang,  Yuntian Deng,  Yingkai Gao,  Eric P. Xing)
+*Zhiting Hu,  Poyao Huang,  Yuntian Deng,  Yingkai Gao,  Eric P. Xing*. ACL 2015. [paper](https://www.cs.cmu.edu/~zhitingh/data/acl15entity.pdf)
 
 1. **Joint Embedding of Hierarchical Categories and Entities for Concept Categorization and Dataless Classificatio**
 *Yuezhang Li, Ronghuo Zheng, Tian Tian, Zhiting Hu, Rahul Iyer, Katia Sycara*. COLING 2016. 
