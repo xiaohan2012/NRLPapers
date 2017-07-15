@@ -78,6 +78,9 @@ Contributed by [Cunchao Tu](http://thunlp.org/~tcc/) and Yuan Yao.
 1. **Constructing and Embedding Abstract Event Causality Networks from Text Snippets**
 *Sendong Zhao, Quan Wang, Sean Massung, Ting Liu, Chengxiang Zhai*. WSDM 2017. [paper](http://dl.acm.org/citation.cfm?id=3018707)
 
+1. **Label Informed Attributed Network Embedding**
+*Xiao Huang, Jundong Li, Xia Hu*. WSDM 2017. [paper](http://dl.acm.org/citation.cfm?id=3018667)
+
 
 1. **Entity Hierarchy Embedding**
 *Zhiting Hu,  Poyao Huang,  Yuntian Deng,  Yingkai Gao,  Eric P. Xing*. ACL 2015. [paper](Zhiting Hu,  Poyao Huang,  Yuntian Deng,  Yingkai Gao,  Eric P. Xing)
