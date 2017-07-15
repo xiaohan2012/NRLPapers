@@ -68,3 +68,14 @@ Contributed by [Cunchao Tu](http://thunlp.org/~tcc/) and Yuan Yao.
 
 1. **Unsupervised Feature Selection in Signed Social Networks.**
 *Kewei Cheng, Jundong Li, Huan Liu.* KDD 2017. [paper](http://www.public.asu.edu/~jundongl/paper/KDD17_SignedFS.pdf)
+
+1. **Task-guided and Path-augmented Heterogeneous Network Embedding for Author Identification**
+*Ting Chen, Yizhou Sun*, WSDM 2017. [paper](http://dl.acm.org/citation.cfm?id=3018735)
+
+1. **Embedding of Embedding (EOE) : Embedding for Coupled Heterogeneous Networks**
+*Linchuan Xu, Xiaokai Wei, Jiannong Cao, Philip S. Yu.* WSDM 2017. [paper](http://dl.acm.org/citation.cfm?id=3018723)
+
+1. **Constructing and Embedding Abstract Event Causality Networks from Text Snippets**
+*Sendong Zhao, Quan Wang, Sean Massung, Ting Liu, Chengxiang Zhai*. WSDM 2017. [paper](http://dl.acm.org/citation.cfm?id=3018707)
+
+
