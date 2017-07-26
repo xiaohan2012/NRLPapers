@@ -88,3 +88,8 @@ Contributed by [Cunchao Tu](http://thunlp.org/~tcc/) and Yuan Yao.
 1. **Joint Embedding of Hierarchical Categories and Entities for Concept Categorization and Dataless Classificatio**
 *Yuezhang Li, Ronghuo Zheng, Tian Tian, Zhiting Hu, Rahul Iyer, Katia Sycara*. COLING 2016. 
 [paper](https://arxiv.org/pdf/1607.07956.pdf)
+
+1. **Network Representation Learning (tutorial)**
+*Peng Cui*.
+ICDM 2016. 
+[slides](http://media.cs.tsinghua.edu.cn/~multimedia/cuipeng/papers/Network%20Representation-Tutorial.pdf)
