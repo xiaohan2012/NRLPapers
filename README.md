@@ -93,3 +93,8 @@ Contributed by [Cunchao Tu](http://thunlp.org/~tcc/) and Yuan Yao.
 *Peng Cui*.
 ICDM 2016. 
 [slides](http://media.cs.tsinghua.edu.cn/~multimedia/cuipeng/papers/Network%20Representation-Tutorial.pdf)
+
+1. **AnnexML: Approximate Nearest Neighbor Search for Extreme Multi-label Classification**. 
+*Yukihiro Tagami*. 
+KDD 2017. 
+[abstract](http://www.kdd.org/kdd2017/papers/view/annexml-approximate-nearest-neighbor-search-for-extreme-multi-label-classif)
