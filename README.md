@@ -98,3 +98,9 @@ ICDM 2016.
 *Yukihiro Tagami*. 
 KDD 2017. 
 [abstract](http://www.kdd.org/kdd2017/papers/view/annexml-approximate-nearest-neighbor-search-for-extreme-multi-label-classif)
+
+
+1. **struc2vec: Learning Node Representations from Structural Identity**. 
+*Leonardo F. R. Ribeiro,  Pedro H. P. Saverese, Daniel R. Figueiredo*. 
+KDD 2017. 
+[paper](https://arxiv.org/abs/1704.03165)
