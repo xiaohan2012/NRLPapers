@@ -104,3 +104,13 @@ KDD 2017.
 *Leonardo F. R. Ribeiro,  Pedro H. P. Saverese, Daniel R. Figueiredo*. 
 KDD 2017. 
 [paper](https://arxiv.org/abs/1704.03165)
+
+1. **Scalable Graph Embedding for Asymmetric Proximity**.
+*Chang Zhou, Yuqiong Liu, Xiaofei Liu, Zhongyi Liu, Jun Gao*. 
+AAAI 2017. 
+[paper](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14696/14500)
+
+1. **Structural Deep Brain Network Mining**. 
+*Shen Wang, Lifang He, Bokai Cao, Chun-Ta Lu, Philip Yu, Ann Ragin*. 
+KDD 2017. 
+[paper](https://www.cs.uic.edu/~clu/doc/kdd17_SDBN.pdf)
