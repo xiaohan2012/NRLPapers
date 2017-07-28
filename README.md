@@ -114,3 +114,46 @@ AAAI 2017.
 *Shen Wang, Lifang He, Bokai Cao, Chun-Ta Lu, Philip Yu, Ann Ragin*. 
 KDD 2017. 
 [paper](https://www.cs.uic.edu/~clu/doc/kdd17_SDBN.pdf)
+
+1. **Inductive Representation Learning on Large Graphs**. 
+*William L. Hamilton, Rex Ying, Jure Leskovec*.
+NIPS 2017. 
+[[paper]](https://arxiv.org/abs/1706.02216) [[code]](https://github.com/williamleif/GraphSAGE)
+
+1. **Variational Graph Auto-Encoders**
+[[arxiv]](https://arxiv.org/abs/1611.07308) [[code tf]](https://github.com/tkipf/gae)
+
+1. **TransNet: Translation-Based Network Representation Learning for Social Relation Extraction**.
+*Cunchao Tu, Zhengyan Zhang, Zhiyuan Liu, Maosong Sun*. 
+IJCAI 2017.
+[paper](http://thunlp.org/~tcc/publications/ijcai2017_transnet.pdf) [code tf](https://github.com/thunlp/TransNet)
+
+1. **Convolutional 2D Knowledge Graph Embeddings**
+[arxiv](https://arxiv.org/pdf/1707.01476v2.pdf) [code](https://github.com/TimDettmers/ConvE)
+
+1. **DNGR**
+[Deep Neural Networks for Learning Graph Representations](http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12423), AAAI'16
+[[Matlab]](https://github.com/ShelsonCao/DNGR) [[Python Keras]](https://github.com/MdAsifKhan/DNGR-Keras)
+
+1. **HolE**
+[Holographic Embeddings of Knowledge Graphs](http://dl.acm.org/citation.cfm?id=3016172), AAAI'16
+[[Python-sklearn]](https://github.com/mnick/holographic-embeddings) [[Python-sklearn2]](https://github.com/mnick/scikit-kge)
+
+1. **ComplEx**
+[Complex Embeddings for Simple Link Prediction](http://dl.acm.org/citation.cfm?id=3045609), ICML'16
+
+1. [[arxiv]](https://arxiv.org/abs/1606.06357) [[Python]](https://github.com/ttrouill/complex)
+
+1. [Learning Entity and Relation Embeddings for Knowledge Graph Completion](http://dl.acm.org/citation.cfm?id=2886624), AAAI'15
+
+1. [[paper]](http://nlp.csai.tsinghua.edu.cn/~lzy/publications/aaai2015_transr.pdf) [[C++]](https://github.com/thunlp/KB2E)  [[faster version]](https://github.com/thunlp/Fast-TransX)
+
+1. [Query-based Music Recommendations via Preference Embedding](http://dl.acm.org/citation.cfm?id=2959169), RecSys'16
+
+1. [Tri-party deep network representation](http://dl.acm.org/citation.cfm?id=3060886), IJCAI'16
+
+1. [From Node Embedding To Community Embedding](https://arxiv.org/abs/1610.09950), arxiv
+
+1. [Graph Embedding Techniques, Applications, and Performance: A Survey](https://arxiv.org/pdf/1705.02801.pdf)
+
+1. [[arxiv]](https://arxiv.org/abs/1705.02801) [[MIX]](https://github.com/palash1992/GEM)
