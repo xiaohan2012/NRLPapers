@@ -139,6 +139,17 @@ IJCAI 2017.
 [Holographic Embeddings of Knowledge Graphs](http://dl.acm.org/citation.cfm?id=3016172), AAAI'16
 [[Python-sklearn]](https://github.com/mnick/holographic-embeddings) [[Python-sklearn2]](https://github.com/mnick/scikit-kge)
 
+1. **GRAM: Graph-based Attention Model for Healthcare Representation Learning**
+*Edward Choi, Mohammad Taha Bahadori, Le Song, Walter Stewart, Jimeng Sun*. 
+KDD 2017. 
+[paper](https://arxiv.org/abs/1611.07012)
+
+1. **SNE: Signed Network Embedding**. 
+*Shuhan Yuan, Xintao Wu, Yang Xiang*. 
+PAKDD 2017. 
+[paper](https://arxiv.org/abs/1703.04837)
+
+
 1. **ComplEx**
 [Complex Embeddings for Simple Link Prediction](http://dl.acm.org/citation.cfm?id=3045609), ICML'16
 
@@ -157,3 +168,4 @@ IJCAI 2017.
 1. [Graph Embedding Techniques, Applications, and Performance: A Survey](https://arxiv.org/pdf/1705.02801.pdf)
 
 1. [[arxiv]](https://arxiv.org/abs/1705.02801) [[MIX]](https://github.com/palash1992/GEM)
+
