@@ -149,6 +149,10 @@ KDD 2017.
 PAKDD 2017. 
 [paper](https://arxiv.org/abs/1703.04837)
 
+1. **Incorporate group information to enhance network embedding**
+*Jifan Chen, Qi Zhang, and Xuanjing Huang*. 
+CIKM 2016. 
+[paper?]()
 
 1. **ComplEx**
 [Complex Embeddings for Simple Link Prediction](http://dl.acm.org/citation.cfm?id=3045609), ICML'16
