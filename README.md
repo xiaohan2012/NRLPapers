@@ -4,7 +4,10 @@ NRL: network representation learning. NE: network embedding.
 Contributed by [Cunchao Tu](http://thunlp.org/~tcc/) and Yuan Yao.
 
 1. [X] **DeepWalk: Online Learning of Social Representations.**
-*Bryan Perozzi, Rami Al-Rfou, Steven Skiena.*  KDD 2014. [paper](https://arxiv.org/pdf/1403.6652) [code](https://github.com/phanein/deepwalk)
+*Bryan Perozzi, Rami Al-Rfou, Steven Skiena.*  KDD 2014. 
+[paper](https://arxiv.org/pdf/1403.6652)
+[code](https://github.com/phanein/deepwalk) 
+[note](https://github.com/xiaohan2012/daily-reading/blob/master/june/deep-walk.md)
 
 1. **Learning Latent Representations of Nodes for Classifying in Heterogeneous Social Networks.**
 *Yann Jacob, Ludovic Denoyer, Patrick Gallinar.* WSDM 2014. [paper](http://webia.lip6.fr/~gallinar/gallinari/uploads/Teaching/WSDM2014-jacob.pdf)
@@ -13,10 +16,14 @@ Contributed by [Cunchao Tu](http://thunlp.org/~tcc/) and Yuan Yao.
 *Mingdong Ou, Peng Cui, Fei Wang, Jun Wang, Wenwu Zhu.*  KDD 2015. [paper](http://media.cs.tsinghua.edu.cn/~multimedia/cuipeng/papers/KDD-NonTransitiveHashing.pdf)
 
 1. [X] **GraRep: Learning Graph Representations with Global Structural Information.**
-*Shaosheng Cao, Wei Lu, Qiongkai Xu.*  CIKM 2015. [paper](https://www.researchgate.net/profile/Qiongkai_Xu/publication/301417811_GraRep/links/5847ecdb08ae8e63e633b5f2/GraRep.pdf) [code](https://github.com/ShelsonCao/GraRep)
+*Shaosheng Cao, Wei Lu, Qiongkai Xu.*  CIKM 2015. 
+[paper](https://www.researchgate.net/profile/Qiongkai_Xu/publication/301417811_GraRep/links/5847ecdb08ae8e63e633b5f2/GraRep.pdf) 
+[code](https://github.com/ShelsonCao/GraRep)
+[note](https://github.com/xiaohan2012/daily-reading/blob/master/july/network-embedding-tutorial-icdm2016.md#grarep)
 
 1. [X] **LINE: Large-scale Information Network Embedding.**
 *Jian Tang, Meng Qu, Mingzhe Wang, Ming Zhang, Jun Yan, Qiaozhu Me.*  WWW 2015. [paper](https://arxiv.org/pdf/1503.03578.pdf) [code](https://github.com/tangjianpku/LINE)
+[note](https://github.com/xiaohan2012/daily-reading/blob/master/july/line-large-scale-information-network-embedding.md)
 
 1. **Network Representation Learning with Rich Text Information.**
 *Cheng Yang, Zhiyuan Liu, Deli Zhao, Maosong Sun, Edward Y. Chang.*  IJCAI 2015. [paper](http://thunlp.org/~yangcheng/publications/ijcai15.pdf) [code](https://github.com/thunlp/tadw)
@@ -25,16 +32,22 @@ Contributed by [Cunchao Tu](http://thunlp.org/~tcc/) and Yuan Yao.
 *Jian Tang, Meng Qu, Qiaozhu Mei.*  KDD 2015. [paper](https://arxiv.org/pdf/1508.00200.pdf) [code](https://github.com/mnqu/PTE)
 
 1. [X] **Heterogeneous Network Embedding via Deep Architectures.**
-*Shiyu Chang, Wei Han, Jiliang Tang, Guo-Jun Qi, Charu C. Aggarwal, Thomas S. Huang.* KDD 2015. [paper](http://www.ifp.illinois.edu/~chang87/papers/kdd_2015.pdf)
+*Shiyu Chang, Wei Han, Jiliang Tang, Guo-Jun Qi, Charu C. Aggarwal, Thomas S. Huang.* KDD 2015. 
+[paper](http://www.ifp.illinois.edu/~chang87/papers/kdd_2015.pdf)
+[note](https://github.com/xiaohan2012/daily-reading/blob/a13de97915d4f51fa91bff2316a4506c064f18f1/june/heterogeneous-network-embedding-via-deep-architecture.md)
 
 1. **Deep Neural Networks for Learning Graph Representations.**
 *Shaosheng Cao, Wei Lu, Xiongkai Xu.* AAAI 2016. [paper](https://pdfs.semanticscholar.org/1a37/f07606d60df365d74752857e8ce909f700b3.pdf) [code](https://github.com/ShelsonCao/DNGR)
 
 1. [X] **Asymmetric Transitivity Preserving Graph Embedding.**
-*Mingdong Ou, Peng Cui, Jian Pei, Ziwei Zhang, Wenwu Zhu.*  KDD 2016. [paper](http://media.cs.tsinghua.edu.cn/~multimedia/cuipeng/papers/hoppe.pdf)
+*Mingdong Ou, Peng Cui, Jian Pei, Ziwei Zhang, Wenwu Zhu.*  KDD 2016.
+[paper](http://media.cs.tsinghua.edu.cn/~multimedia/cuipeng/papers/hoppe.pdf)
+[note](https://github.com/xiaohan2012/daily-reading/blob/master/july/asymmetric-transitivity-preserving-graph-embedding.md)
 
 1. [X] **Revisiting Semi-supervised Learning with Graph Embeddings.**
-*Zhilin Yang, William W. Cohen, Ruslan Salakhutdinov.* ICML 2016. [paper](http://www.jmlr.org/proceedings/papers/v48/yanga16.pdf)
+*Zhilin Yang, William W. Cohen, Ruslan Salakhutdinov.* ICML 2016. 
+[paper](http://www.jmlr.org/proceedings/papers/v48/yanga16.pdf)
+[note](https://github.com/xiaohan2012/daily-reading/blob/master/july/semi-supervised-learning-with-graph-embedding.md)
 
 1. [X] **node2vec: Scalable Feature Learning for Networks.**
 *Aditya Grover, Jure Leskovec.*  KDD 2016. [paper](http://www.kdd.org/kdd2016/papers/files/rfp0218-groverA.pdf) [code](https://github.com/aditya-grover/node2vec)
@@ -46,13 +59,18 @@ Contributed by [Cunchao Tu](http://thunlp.org/~tcc/) and Yuan Yao.
 *Daixin Wang, Peng Cui, Wenwu Zhu.*  KDD 2016. [paper](http://media.cs.tsinghua.edu.cn/~multimedia/cuipeng/papers/SDNE.pdf)
 
 1. [X] **Community Preserving Network Embedding.**
-*Xiao Wang, Peng Cui, Jing Wang, Jian Pei, Wenwu Zhu, Shiqiang Yang.* AAAI 2017. [paper](http://media.cs.tsinghua.edu.cn/~multimedia/cuipeng/papers/NE-Community.pdf)
+*Xiao Wang, Peng Cui, Jing Wang, Jian Pei, Wenwu Zhu, Shiqiang Yang.* AAAI 2017. 
+[paper](http://media.cs.tsinghua.edu.cn/~multimedia/cuipeng/papers/NE-Community.pdf)
+[note](https://github.com/xiaohan2012/daily-reading/blob/master/july/network-embedding-tutorial-icdm2016.md#community-preserving-network-embedding)
 
 1. **Semi-supervised Classification with Graph Convolutional Networks.**
 *Thomas N. Kipf, Max Welling.* ICLR 2017. [paper](https://arxiv.org/pdf/1609.02907.pdf) [code](https://github.com/tkipf/gcn)
 
 1. [X] **CANE: Context-Aware Network Embedding for Relation Modeling.**
-*Cunchao Tu, Han Liu, Zhiyuan Liu, Maosong Sun.* ACL 2017. [paper](http://thunlp.org/~tcc/publications/acl2017_cane.pdf) [code (tensorflow)](https://github.com/thunlp/cane)
+*Cunchao Tu, Han Liu, Zhiyuan Liu, Maosong Sun.* ACL 2017. 
+[paper](http://thunlp.org/~tcc/publications/acl2017_cane.pdf) 
+[code (tensorflow)](https://github.com/thunlp/cane)
+[note](https://github.com/xiaohan2012/daily-reading/blob/master/august/cane.md)
 
 1. **Fast Network Embedding Enhancement via High Order Proximity Approximation.**
 *Cheng Yang, Maosong Sun, Zhiyuan Liu, Cunchao Tu.* IJCAI 2017. [paper](http://thunlp.org/~tcc/publications/ijcai2017_neu.pdf) [code](https://github.com/thunlp/neu)
@@ -61,7 +79,10 @@ Contributed by [Cunchao Tu](http://thunlp.org/~tcc/) and Yuan Yao.
 *Cunchao Tu, Zhengyan Zhang, Zhiyuan Liu, Maosong Sun.* IJCAI 2017. [paper](http://thunlp.org/~tcc/publications/ijcai2017_transnet.pdf) [code](https://github.com/thunlp/transnet)
 
 1. [X] **metapath2vec: Scalable Representation Learning for Heterogeneous Networks.**
-*Yuxiao Dong, Nitesh V. Chawla, Ananthram Swami.* KDD 2017. [paper](https://www3.nd.edu/~dial/publications/dong2017metapath2vec.pdf) [code](https://ericdongyx.github.io/metapath2vec/m2v.html)
+*Yuxiao Dong, Nitesh V. Chawla, Ananthram Swami.* KDD 2017. 
+[paper](https://www3.nd.edu/~dial/publications/dong2017metapath2vec.pdf)
+[code](https://ericdongyx.github.io/metapath2vec/m2v.html)
+[note](https://github.com/xiaohan2012/daily-reading/blob/master/july/metapath2vec.md)
 
 1. **Learning from Labeled and Unlabeled Vertices in Networks.**
 *Wei Ye, Linfei Zhou, Dominik Mautz, Claudia Plant, Christian Böhm.* KDD 2017.
@@ -70,7 +91,9 @@ Contributed by [Cunchao Tu](http://thunlp.org/~tcc/) and Yuan Yao.
 *Kewei Cheng, Jundong Li, Huan Liu.* KDD 2017. [paper](http://www.public.asu.edu/~jundongl/paper/KDD17_SignedFS.pdf)
 
 1. [X] **Task-guided and Path-augmented Heterogeneous Network Embedding for Author Identification**
-*Ting Chen, Yizhou Sun*, WSDM 2017. [paper](http://dl.acm.org/citation.cfm?id=3018735)
+*Ting Chen, Yizhou Sun*, WSDM 2017. 
+[paper](http://dl.acm.org/citation.cfm?id=3018735)
+[note](https://github.com/xiaohan2012/daily-reading/blob/master/july/network-embedding-for-author-identification.md)
 
 1. **Embedding of Embedding (EOE) : Embedding for Coupled Heterogeneous Networks**
 *Linchuan Xu, Xiaokai Wei, Jiannong Cao, Philip S. Yu.* WSDM 2017. [paper](http://dl.acm.org/citation.cfm?id=3018723)
@@ -93,6 +116,7 @@ Contributed by [Cunchao Tu](http://thunlp.org/~tcc/) and Yuan Yao.
 *Peng Cui*.
 ICDM 2016. 
 [slides](http://media.cs.tsinghua.edu.cn/~multimedia/cuipeng/papers/Network%20Representation-Tutorial.pdf)
+[note](https://github.com/xiaohan2012/daily-reading/blob/master/july/network-embedding-tutorial-icdm2016.md)
 
 1. **AnnexML: Approximate Nearest Neighbor Search for Extreme Multi-label Classification**. 
 *Yukihiro Tagami*. 
@@ -114,6 +138,7 @@ AAAI 2017.
 *Shen Wang, Lifang He, Bokai Cao, Chun-Ta Lu, Philip Yu, Ann Ragin*. 
 KDD 2017. 
 [paper](https://www.cs.uic.edu/~clu/doc/kdd17_SDBN.pdf)
+[note](https://github.com/xiaohan2012/daily-reading/blob/master/july/structural-deep-networok-embedding.md)
 
 1. **Inductive Representation Learning on Large Graphs**. 
 *William L. Hamilton, Rex Ying, Jure Leskovec*.
