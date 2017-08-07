@@ -12,10 +12,10 @@ Contributed by [Cunchao Tu](http://thunlp.org/~tcc/) and Yuan Yao.
 1. **Non-transitive Hashing with Latent Similarity Componets.**
 *Mingdong Ou, Peng Cui, Fei Wang, Jun Wang, Wenwu Zhu.*  KDD 2015. [paper](http://media.cs.tsinghua.edu.cn/~multimedia/cuipeng/papers/KDD-NonTransitiveHashing.pdf)
 
-1. **GraRep: Learning Graph Representations with Global Structural Information.**
+1. [X] **GraRep: Learning Graph Representations with Global Structural Information.**
 *Shaosheng Cao, Wei Lu, Qiongkai Xu.*  CIKM 2015. [paper](https://www.researchgate.net/profile/Qiongkai_Xu/publication/301417811_GraRep/links/5847ecdb08ae8e63e633b5f2/GraRep.pdf) [code](https://github.com/ShelsonCao/GraRep)
 
-1. **LINE: Large-scale Information Network Embedding.**
+1. [X] **LINE: Large-scale Information Network Embedding.**
 *Jian Tang, Meng Qu, Mingzhe Wang, Ming Zhang, Jun Yan, Qiaozhu Me.*  WWW 2015. [paper](https://arxiv.org/pdf/1503.03578.pdf) [code](https://github.com/tangjianpku/LINE)
 
 1. **Network Representation Learning with Rich Text Information.**
@@ -30,28 +30,28 @@ Contributed by [Cunchao Tu](http://thunlp.org/~tcc/) and Yuan Yao.
 1. **Deep Neural Networks for Learning Graph Representations.**
 *Shaosheng Cao, Wei Lu, Xiongkai Xu.* AAAI 2016. [paper](https://pdfs.semanticscholar.org/1a37/f07606d60df365d74752857e8ce909f700b3.pdf) [code](https://github.com/ShelsonCao/DNGR)
 
-1. **Asymmetric Transitivity Preserving Graph Embedding.**
+1. [X] **Asymmetric Transitivity Preserving Graph Embedding.**
 *Mingdong Ou, Peng Cui, Jian Pei, Ziwei Zhang, Wenwu Zhu.*  KDD 2016. [paper](http://media.cs.tsinghua.edu.cn/~multimedia/cuipeng/papers/hoppe.pdf)
 
 1. [X] **Revisiting Semi-supervised Learning with Graph Embeddings.**
 *Zhilin Yang, William W. Cohen, Ruslan Salakhutdinov.* ICML 2016. [paper](http://www.jmlr.org/proceedings/papers/v48/yanga16.pdf)
 
-1. **node2vec: Scalable Feature Learning for Networks.**
+1. [X] **node2vec: Scalable Feature Learning for Networks.**
 *Aditya Grover, Jure Leskovec.*  KDD 2016. [paper](http://www.kdd.org/kdd2016/papers/files/rfp0218-groverA.pdf) [code](https://github.com/aditya-grover/node2vec)
 
 1. **Max-Margin DeepWalk: Discriminative Learning of Network Representation.**
 *Cunchao Tu, Weicheng Zhang, Zhiyuan Liu, Maosong Sun.*  IJCAI 2016. [paper](http://thunlp.org/~tcc/publications/ijcai2016_mmdw.pdf) [code](https://github.com/thunlp/mmdw)
 
-1. **Structural Deep Network Embedding.**
+1. [X] **Structural Deep Network Embedding.**
 *Daixin Wang, Peng Cui, Wenwu Zhu.*  KDD 2016. [paper](http://media.cs.tsinghua.edu.cn/~multimedia/cuipeng/papers/SDNE.pdf)
 
-1. **Community Preserving Network Embedding.**
+1. [X] **Community Preserving Network Embedding.**
 *Xiao Wang, Peng Cui, Jing Wang, Jian Pei, Wenwu Zhu, Shiqiang Yang.* AAAI 2017. [paper](http://media.cs.tsinghua.edu.cn/~multimedia/cuipeng/papers/NE-Community.pdf)
 
 1. **Semi-supervised Classification with Graph Convolutional Networks.**
 *Thomas N. Kipf, Max Welling.* ICLR 2017. [paper](https://arxiv.org/pdf/1609.02907.pdf) [code](https://github.com/tkipf/gcn)
 
-1. **CANE: Context-Aware Network Embedding for Relation Modeling.**
+1. [X] **CANE: Context-Aware Network Embedding for Relation Modeling.**
 *Cunchao Tu, Han Liu, Zhiyuan Liu, Maosong Sun.* ACL 2017. [paper](http://thunlp.org/~tcc/publications/acl2017_cane.pdf) [code (tensorflow)](https://github.com/thunlp/cane)
 
 1. **Fast Network Embedding Enhancement via High Order Proximity Approximation.**
@@ -89,7 +89,7 @@ Contributed by [Cunchao Tu](http://thunlp.org/~tcc/) and Yuan Yao.
 *Yuezhang Li, Ronghuo Zheng, Tian Tian, Zhiting Hu, Rahul Iyer, Katia Sycara*. COLING 2016. 
 [paper](https://arxiv.org/pdf/1607.07956.pdf)
 
-1. **Network Representation Learning (tutorial)**
+1. [X] **Network Representation Learning (tutorial)**
 *Peng Cui*.
 ICDM 2016. 
 [slides](http://media.cs.tsinghua.edu.cn/~multimedia/cuipeng/papers/Network%20Representation-Tutorial.pdf)
@@ -153,6 +153,10 @@ PAKDD 2017.
 *Jifan Chen, Qi Zhang, and Xuanjing Huang*. 
 CIKM 2016. 
 [paper?]()
+
+1. **A General Framework for Content-enhanced Network Representation Learning**
+*Xiaofei Sun, Jiang Guo, Xiao Ding, Ting Liu*, 
+[arix](https://arxiv.org/abs/1610.02906)
 
 1. **ComplEx**
 [Complex Embeddings for Simple Link Prediction](http://dl.acm.org/citation.cfm?id=3045609), ICML'16
