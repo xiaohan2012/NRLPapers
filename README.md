@@ -56,7 +56,9 @@ Contributed by [Cunchao Tu](http://thunlp.org/~tcc/) and Yuan Yao.
 *Cunchao Tu, Weicheng Zhang, Zhiyuan Liu, Maosong Sun.*  IJCAI 2016. [paper](http://thunlp.org/~tcc/publications/ijcai2016_mmdw.pdf) [code](https://github.com/thunlp/mmdw)
 
 1. [X] **Structural Deep Network Embedding.**
-*Daixin Wang, Peng Cui, Wenwu Zhu.*  KDD 2016. [paper](http://media.cs.tsinghua.edu.cn/~multimedia/cuipeng/papers/SDNE.pdf)
+*Daixin Wang, Peng Cui, Wenwu Zhu.*  KDD 2016. 
+[paper](http://media.cs.tsinghua.edu.cn/~multimedia/cuipeng/papers/SDNE.pdf)
+[note](https://github.com/xiaohan2012/daily-reading/blob/master/july/structural-deep-networok-embedding.md)
 
 1. [X] **Community Preserving Network Embedding.**
 *Xiao Wang, Peng Cui, Jing Wang, Jian Pei, Wenwu Zhu, Shiqiang Yang.* AAAI 2017. 
@@ -173,6 +175,11 @@ KDD 2017.
 *Shuhan Yuan, Xintao Wu, Yang Xiang*. 
 PAKDD 2017. 
 [paper](https://arxiv.org/abs/1703.04837)
+
+1. **Attributed Social Network Embedding**
+*Lizi Liao, Xiangnan He, Hanwang Zhang, and Tat-Seng Chua*,
+[axiv](https://arxiv.org/pdf/1705.04969.pdf), 2017
+[code(tf)](https://github.com/lizi-git/Social-Network-Embedding)
 
 1. **Incorporate group information to enhance network embedding**
 *Jifan Chen, Qi Zhang, and Xuanjing Huang*. 
