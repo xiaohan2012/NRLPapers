@@ -186,6 +186,11 @@ PAKDD 2017.
 CIKM 2016. 
 [paper?]()
 
+1. **Network Vector: Distributed Representations of Networks with Global Context**
+*Hao Wu, Kristina Lerman*, 
+arxiv,
+[paper](https://arxiv.org/pdf/1709.02448.pdf)
+
 1. **A General Framework for Content-enhanced Network Representation Learning**
 *Xiaofei Sun, Jiang Guo, Xiao Ding, Ting Liu*, 
 [arix](https://arxiv.org/abs/1610.02906)
