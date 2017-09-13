@@ -195,6 +195,14 @@ arxiv,
 *Xiaofei Sun, Jiang Guo, Xiao Ding, Ting Liu*, 
 [arix](https://arxiv.org/abs/1610.02906)
 
+1. **Learning Graph Topological Features via GAN**
+*Weiyi Liu, Hal Cooper, Min Hwan Oh, Sailung Yeung, Pin-yu Chen, Toyotaro Suzumura, Lingli Chen*, 
+[arxiv](https://arxiv.org/abs/1709.03545), 2017
+
+1. **Principled Multilayer Network Embedding**
+*Weiyi Liu, Sailung Yeung, Pin-Yu Chen, Toyotaro Suzumura, Lingli Chen*
+[arxiv](https://arxiv.org/abs/1709.03551), 2017
+
 1. **ComplEx**
 [Complex Embeddings for Simple Link Prediction](http://dl.acm.org/citation.cfm?id=3045609), ICML'16
 
