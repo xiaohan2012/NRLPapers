@@ -3,6 +3,10 @@ NRL: network representation learning. NE: network embedding.
 
 Contributed by [Cunchao Tu](http://thunlp.org/~tcc/) and Yuan Yao.
 
+1. [ ] **Network Embedding as Matrix Factorization: Unifying DeepWalk, LINE, PTE, and node2ve. **
+*Jiezhong Qiu, Yuxiao Dong, Hao Ma, Jian Li, Kuansan Wang, and Jie Tang*, 
+[arxiv](https://arxiv.org/pdf/1710.02971.pdf) 2017
+
 1. [X] **DeepWalk: Online Learning of Social Representations.**
 *Bryan Perozzi, Rami Al-Rfou, Steven Skiena.*  KDD 2014. 
 [paper](https://arxiv.org/pdf/1403.6652)
